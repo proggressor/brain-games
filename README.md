@@ -5,4 +5,4 @@
 **Examples of games**
 
 1. Is this number even?
-https://asciinema.org/a/Tp2J0J4w5Sbf54S4E8R3KxEni
+[![asciicast](https://asciinema.org/a/Tp2J0J4w5Sbf54S4E8R3KxEni.png)](https://asciinema.org/a/Tp2J0J4w5Sbf54S4E8R3KxEni)

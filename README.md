@@ -6,3 +6,6 @@
 
 1. Is this number even?
 [![asciicast](https://asciinema.org/a/Tp2J0J4w5Sbf54S4E8R3KxEni.png)](https://asciinema.org/a/Tp2J0J4w5Sbf54S4E8R3KxEni)
+
+2. Calculator
+[![asciicast](https://asciinema.org/a/3CLetuRheC9e1phaMc7YFrSHP.png)](https://asciinema.org/a/3CLetuRheC9e1phaMc7YFrSHP)

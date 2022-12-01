@@ -13,3 +13,6 @@
 
 3. Greatest common divisor
 [![asciicast](https://asciinema.org/a/V1QhlHm4OR8zV7nHxpo0GGRFV.png)](https://asciinema.org/a/V1QhlHm4OR8zV7nHxpo0GGRFV)
+
+4. Progression
+[![asciicast](https://asciinema.org/a/uJ4NLCBY0C2JAuI7RKLEKlNCP.png)](https://asciinema.org/a/uJ4NLCBY0C2JAuI7RKLEKlNCP)

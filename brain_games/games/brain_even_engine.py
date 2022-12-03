@@ -8,8 +8,8 @@ def get_game():
     example = randint(0, 100)
 
     if example % 2 == 0:
-        rigth_answer = 'yes'
+        right_answer = 'yes'
     else:
-        rigth_answer = 'no'
+        right_answer = 'no'
 
-    return example, rigth_answer
+    return example, right_answer

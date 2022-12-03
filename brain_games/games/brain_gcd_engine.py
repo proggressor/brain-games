@@ -16,6 +16,6 @@ def get_game():
         else:
             second_arg = second_arg - first_arg
 
-    rigth_answer = first_arg
+    right_answer = first_arg
 
-    return example, str(rigth_answer)
+    return example, str(right_answer)

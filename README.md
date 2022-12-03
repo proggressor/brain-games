@@ -16,3 +16,6 @@
 
 4. Progression
 [![asciicast](https://asciinema.org/a/uJ4NLCBY0C2JAuI7RKLEKlNCP.png)](https://asciinema.org/a/uJ4NLCBY0C2JAuI7RKLEKlNCP)
+
+5. Is this number prime?
+[![asciicast](https://asciinema.org/a/hxmSKAPtJldlXprYNGaDQclX2.png)](https://asciinema.org/a/hxmSKAPtJldlXprYNGaDQclX2)

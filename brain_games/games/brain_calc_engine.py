@@ -9,6 +9,6 @@ def get_game():
     second_arg = randint(0, 25)
     operator = choice(['+', '-', '*'])
     example = f'{first_arg} {operator} {second_arg}'
-    rigth_answer = eval(example)
+    right_answer = eval(example)
 
-    return example, str(rigth_answer)
+    return example, str(right_answer)

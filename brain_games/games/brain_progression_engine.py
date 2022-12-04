@@ -1,7 +1,7 @@
 from random import randint, choice
 
 
-question = 'What number is missing in the progression?'
+QUESTION = 'What number is missing in the progression?'
 
 
 def get_game():

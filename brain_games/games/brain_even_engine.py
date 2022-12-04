@@ -1,7 +1,7 @@
 from random import randint
 
 
-question = 'Answer "yes" if the number is even, otherwise answer "no".'
+QUESTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def get_game():

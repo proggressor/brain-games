@@ -18,11 +18,11 @@ This is my first study project at the Hexlet programming school. It contains 5 s
 
 ### Package installation procedure
 
-1.'make install' #poetry install
+1. 'make install' # poetry install
 
-2.'make build' #poetry build
+2. 'make build' # poetry build
 
-3.'make package-install' #python3 -m pip install --user dist/*.whl --force-reinstall
+3. 'make package-install' # python3 -m pip install --user dist/*.whl --force-reinstall
 
 ### Examples of games
 

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..brain_games import get_template
-from ..games import brain_calc_engine
+from ..pattern import get_pattern
+from ..games import calc_logic
 
 
 def main():
-    get_template(brain_calc_engine)
+    get_pattern(calc_logic)
 
 
 if __name__ == '__main__':

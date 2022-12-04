@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..brain_games import get_template
-from ..games import brain_progression_engine
+from ..pattern import get_pattern
+from ..games import progression_logic
 
 
 def main():
-    get_template(brain_progression_engine)
+    get_pattern(progression_logic)
 
 
 if __name__ == '__main__':

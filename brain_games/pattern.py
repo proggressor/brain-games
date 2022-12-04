@@ -1,14 +1,14 @@
 import prompt
 
 
-def get_template(engine):
+def get_pattern(logic):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(engine.QUESTION)
+    print(logic.QUESTION)
     counter = 0
     while counter < 3:
-        example, right_answer = engine.get_game()
+        example, right_answer = logic.get_game()
         print(f'Question: {example}')
         answer = prompt.string('Your answer: ')
 

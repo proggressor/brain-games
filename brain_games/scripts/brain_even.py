@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..brain_games import get_template
-from ..games import brain_even_engine
+from ..pattern import get_pattern
+from ..games import even_logic
 
 
 def main():
-    get_template(brain_even_engine)
+    get_pattern(even_logic)
 
 
 if __name__ == '__main__':

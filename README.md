@@ -8,9 +8,9 @@
 
 ### Minimum requirements for installed packages
 
-Python version 3.10
+Python, version 3.10
 
-Poetry version 1.2.2
+Poetry, version 1.2.2
 
 ### Project Description
 

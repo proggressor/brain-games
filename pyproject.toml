@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Educational project with five mathematical console games"
 authors = ["Vorobyev <nikos1997@yandex.ru>"]
 readme = "README.md"
+classifiers = ["Topic :: Education :: Testing",
+               "Topic :: Software Development :: Libraries :: Python Modules"]
 packages = [{include = "brain_games"}]
 repository = 'https://github.com/proggressor/python-project-49'
 

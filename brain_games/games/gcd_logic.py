@@ -8,9 +8,9 @@ def gcd(first_arg, second_arg):
     while first_arg != second_arg:
 
         if first_arg > second_arg:
-            first_arg -= second_arg
+            first_arg = first_arg - second_arg
         else:
-            second_arg -= first_arg
+            second_arg = second_arg - first_arg
 
     return first_arg
 

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..pattern import get_pattern
+from ..dialog import call_dialog
 from ..games import prime_logic
 
 
 def main():
-    get_pattern(prime_logic)
+    call_dialog(prime_logic)
 
 
 if __name__ == '__main__':

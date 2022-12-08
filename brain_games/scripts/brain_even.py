@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..pattern import get_pattern
+from ..dialog import call_dialog
 from ..games import even_logic
 
 
 def main():
-    get_pattern(even_logic)
+    call_dialog(even_logic)
 
 
 if __name__ == '__main__':

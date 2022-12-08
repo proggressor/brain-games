@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-from ..pattern import get_pattern
+from ..dialog import call_dialog
 from ..games import progression_logic
 
 
 def main():
-    get_pattern(progression_logic)
+    call_dialog(progression_logic)
 
 
 if __name__ == '__main__':

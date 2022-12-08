@@ -1,7 +1,7 @@
 import prompt
 
 
-def get_pattern(logic):
+def call_dialog(logic):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')

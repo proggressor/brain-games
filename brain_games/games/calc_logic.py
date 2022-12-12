@@ -5,7 +5,13 @@ QUESTION = 'What is the result of the expression?'
 
 
 def calc(first_arg, second_arg, operator):
-    answer = eval(f'{first_arg} {operator} {second_arg}')
+    match operator:
+        case '+':
+            answer = first_arg + second_arg
+        case '-':
+            answer = first_arg - second_arg
+        case '*':
+            answer = first_arg * second_arg
     return answer
 
 
